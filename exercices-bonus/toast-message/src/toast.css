@@ -1,0 +1,16 @@
+.toastMessage {
+    display:flex;
+    background-color:#56CFE1;
+    width:120%;
+    justify-content: flex-end;
+}
+.toastMessage p {
+    padding-left:2em;
+}
+.toastMessage button {
+    background-color:#56CFE1;
+    margin-left:6em;
+}
+.dismissed {
+    display:none;
+}
